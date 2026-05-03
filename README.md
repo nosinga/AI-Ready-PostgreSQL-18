@@ -1,4 +1,4 @@
-# eComerce sample database to accompany the book 'PostgreSQL 18 for the developer: transactions, analytics, and AI'
+# eCommerce sample database to accompany the book 'PostgreSQL 18 for the developer: transactions, analytics, and AI'
 
 This repository contains a set of scripts to accompany the book 'AI-Ready PostgreSQL 18: Building Intelligent Data Systems with Transactions, Analytics, and Vectors'.
 
